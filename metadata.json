@@ -1,0 +1,6 @@
+{
+  "name": "وكالة عاهد الصبري",
+  "description": "نظام محاسبي وتجاري وإداري متكامل لوكالة عاهد الصبري، يدعم الـ Offline الكامل والطباعة الحرارية والفواتير",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
